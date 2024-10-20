@@ -67,7 +67,7 @@ def train_and_evaluate_ner_model(model, train_data, test_data):
 
 def main():
     """Main function to load data, prepare datasets, create model, and evaluate it."""
-    file_path = "https://raw.githubusercontent.com/HannaVasiunyk/NER_model_mountains/refs/heads/main/mountain_label_dataset.csv"
+    file_path = "https://raw.githubusercontent.com/HannaVasiunyk/NER_model_mountains/refs/heads/master/mountain_label_dataset.csv"
 
     # Load data
     data = load_dataset(file_path)
