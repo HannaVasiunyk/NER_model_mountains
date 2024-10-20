@@ -48,8 +48,8 @@ To run this notebook and the associated project files, you'll need to install th
 1. **Clone the Repository**
     - Start by cloning the project repository to your local machine:
       ```bash
-      git clone <repository_url>
-      cd <repository_directory>
+      git clone https://github.com/HannaVasiunyk/NER_model_mountains.git
+      cd NER_model_mountains
       ```
 
 2. **Set Up a Virtual Environment (Optional)**
@@ -71,6 +71,7 @@ To run this notebook and the associated project files, you'll need to install th
 5. **Train the model:**
 
 - Run model_training.py in your Python environment to train the model on the generated dataset.
+- Or import [trained model](https://drive.google.com/drive/folders/1JSpcyFVOYxTRtLUifDAzGWGA0NvjktDJ?usp=sharing)
 
 6. **Check the inference script:**
 
